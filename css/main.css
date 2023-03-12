@@ -1,3 +1,6 @@
 body {
     background-color: #ffffffd5;
 }
+p {
+    color: rgb(red, green, blue)
+}
